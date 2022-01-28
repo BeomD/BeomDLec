@@ -17,7 +17,7 @@ const greeting = {
     "계속 공부하고 발전하는 개발자 김범진입니다 / C / Embedded / Android"
   ),
   resumeLink:
-    "이력서링크 첨부예정임", // Set to empty to hide the button
+    "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -58,7 +58,7 @@ https://fontawesome.com/icons?d=gallery */
   softwareSkills: [
     {
       skillName: "C",
-      fontAwesomeClassname: "fab fa-c"
+      fontAwesomeClassname: "fab fa-code"
     },
 
     {
