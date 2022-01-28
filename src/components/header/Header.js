@@ -41,12 +41,13 @@ function Header() {
         <ul className={isDark ? "dark-menu menu" : "menu"}>
           {viewSkills && (
             <li>
-              <a href="#skills">Skills</a>
-            </li>
+              //<a href="#skills">Skills</a>
+              <a href="#skills">보유능력</a>
+               </li>
           )}
           {viewExperience && (
             <li>
-              <a href="#experience">Work Experiences</a>
+              <a href="#experience">경력</a>
             </li>
           )}
           {viewOpenSource && (
@@ -56,7 +57,7 @@ function Header() {
           )}
           {viewAchievement && (
             <li>
-              <a href="#achievements">Achievements</a>
+              <a href="#achievements">프로젝트 및 성과</a>
             </li>
           )}
           {viewBlog && (
@@ -70,7 +71,7 @@ function Header() {
             </li>
           )}
           <li>
-            <a href="#contact">Contact Me</a>
+            <a href="#contact">연락처</a>
           </li>
           <li>
             {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
