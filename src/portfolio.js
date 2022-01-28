@@ -41,14 +41,10 @@ const skillsSection = {
   title: "스킬",
   subTitle: "숙련된 C, Java 프로그래밍 능력을 보유하고 있으며 기초적인 HTML,CSS 능력을 보유하고있습니다",
   skills: [
-    /*
-    emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
-    ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
-    )*/
+    "임베디드를 전공하였기 때문에 C언어에 능통합니다."
+    ,
+    "언어 습득 속도가 빠릅니다",
+    "샘플" 
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
