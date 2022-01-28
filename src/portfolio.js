@@ -163,8 +163,8 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "프로젝트",
+  subtitle: "진행했던 프로젝트",
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
