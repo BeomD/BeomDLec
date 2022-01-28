@@ -306,7 +306,7 @@ const podcastSection = {
 };
 
 const contactInfo = {
-  title: emoji("Contact Me ☎️"),
+  title: emoji("연락처"),
   subtitle:
     "언제든지 일할 준비가 되어있습니다.",
   number: "010-3901-5700",
