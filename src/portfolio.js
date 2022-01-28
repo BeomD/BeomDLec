@@ -39,7 +39,7 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "What I do",
+  title: "보유능력",
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
@@ -55,15 +55,15 @@ const skillsSection = {
 https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
-    {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
+    //{
+      //skillName: "html-5",
+      //fontAwesomeClassname: "fab fa-html5"
+    //},
     {
       skillName: "css3",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
-    
+
     {
       skillName: "sass",
       fontAwesomeClassname: "fab fa-sass"
