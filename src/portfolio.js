@@ -12,9 +12,9 @@ const illustration = {
 
 const greeting = {
   username: "Beomjin",
-  title: "안녕하세요 신입개발자 김범진입니다",
+  title: "안녕하세요 \n신입개발자 김범진입니다",
   subTitle: emoji(
-    "계속 공부하고 발전하는 개발자 김범진입니다 / C / Embedded / Android"
+    "계속 공부하고 발전하는 개발자 김범진입니다\nC / Embedded / Android"
   ),
   resumeLink:
     "", // Set to empty to hide the button
