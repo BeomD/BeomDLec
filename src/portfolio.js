@@ -38,7 +38,7 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "보유능력",
+  title: "스킬",
   subTitle: "숙련된 C, Java 프로그래밍 능력을 보유하고 있으며 기초적인 HTML,CSS 능력을 보유하고있습니다",
   skills: [
     /*
