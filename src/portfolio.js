@@ -63,10 +63,12 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "css3",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
+    /*
     {
-      //skillName: "sass",
-      //fontAwesomeClassname: "fab fa-sass"
+      skillName: "sass",
+      fontAwesomeClassname: "fab fa-sass"
     },
+    */
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
@@ -331,7 +333,7 @@ const talkSection = {
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
   ],
-  display: flase // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
