@@ -76,7 +76,7 @@ const educationInfo = {
       logo: require("./assets/images/harvardLogo.png"),
       subHeader: "Bachelor of Embedded System Engineering",
       duration: "March 2012 - Feb 2017",
-      desc: "졸업작품",
+      desc: "Senior Project : Smart IoT Fitness Mattress based on Multi-Processor",
       descBullets: [
       ]
     },
@@ -143,15 +143,9 @@ const bigProjects = {
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
-        }
-        //  you can add extra buttons here.
-      ]
+      projectName: "멀티프로세서 기반 스마트 IoT 피트니스 매트(Smart IoT Fitness Mattress based on Multi-Processor)",
+      projectDesc: "I2C통신 기반 다수의 Atmega 128 CPU 멀티프로세서 구성으로 다수의 센서정보 실시간 송수신(BT&Serial)",
+      projectDesc2: "Java 기반 운동 가이드 SW 탑재"
     },
     
   ],
@@ -162,7 +156,7 @@ const bigProjects = {
 // Include certificates, talks etc
 
 const achievementSection = {
-  title: emoji("Achievements And Certifications 🏆 "),
+  title: emoji("Achievements And Certifications"),
   subtitle:
     "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
 
