@@ -38,7 +38,8 @@ function Header() {
         >
           <span className={isDark ? "navicon navicon-dark" : "navicon"}></span>
         </label>
-        <ul className={isDark ? "dark-menu menu" : "menu"}>
+           <ul className={isDark ? "dark-menu menu" : "menu"}>
+          
           {viewSkills && (
             <li>
               <a href="#skills">보유능력</a>
@@ -75,7 +76,9 @@ function Header() {
           <li>
             {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
             <a>
+            /*
               <ToggleSwitch />
+            */
             </a>
           </li>
         </ul>
