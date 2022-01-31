@@ -23,14 +23,6 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/BeomD",
-  //linkedin: "https://www.linkedin.com/in/saadpasta/",
-  //gmail: "saadpasta70@gmail.com",
-  //gitlab: "https://gitlab.com/saadpasta",
-  //facebook: "https://www.facebook.com/saad.pasta7",
-  //medium: "https://medium.com/@saadpasta",
-  //stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
-  // Instagram, Twitter and Kaggle are also supported in the links!
-  // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
 };
 
@@ -43,7 +35,6 @@ const skillsSection = {
     "임베디드를 전공하였기 때문에 C언어에 능통합니다."
     ,
     "언어 습득 속도가 빠릅니다",
-    "샘플" 
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -85,10 +76,8 @@ const educationInfo = {
       logo: require("./assets/images/harvardLogo.png"),
       subHeader: "Bachelor of Embedded System Engineering",
       duration: "March 2012 - Feb 2017",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      desc: "졸업작품",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       ]
     },
 
@@ -118,19 +107,19 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "HP-UX Server Administer",
-      company: "ROKAF",
+      role: "서버관리자(HP-UX Server Administer)",
+      company: "대한민국 공군(ROKAF)",
       companylogo: require("./assets/images/facebookLogo.png"),
       date: "Feb 2018 – May 2019",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        " "
       ]
     },
     {
-      role: "Commander of electrical and electronic",
-      company: "ROKAF",
+      role: "전자중대장(Commander of electrical and electronic)",
+      company: "대한민국 공군(ROKAF)",
       companylogo: require("./assets/images/airbnbLogo.png"),
       date: "Jan 2015 – Sep 2015",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
