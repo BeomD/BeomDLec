@@ -108,7 +108,7 @@ const workExperiences = {
   experience: [
     {
       role: "서버관리자(HP-UX Server Administer)",
-      company: "대한민국 공군(ROKAF)",
+      company: "대한민국공군(ROKAF)",
       companylogo: require("./assets/images/facebookLogo.png"),
       date: "Feb 2018 – May 2019",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -119,7 +119,7 @@ const workExperiences = {
     },
     {
       role: "전자중대장(Commander of electrical and electronic)",
-      company: "대한민국 공군(ROKAF)",
+      company: "대한민국공군(ROKAF)",
       companylogo: require("./assets/images/airbnbLogo.png"),
       date: "Jan 2015 – Sep 2015",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
