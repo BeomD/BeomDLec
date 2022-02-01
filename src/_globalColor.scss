@@ -8,12 +8,12 @@ $buttonHover: #8c43ce;
 $topButtonHover: #000;
 
 // text colors light theme
-$titleColor: #000000;
-$textColor: #000000;
-$subTitle: #868e96;
-$cardSubtitle: #666666;
-$talkCardSubTitle: #7f8287;
-$blogCardTitleColor: #262626;
+$titleColor:#ffffff;// #000000;
+$textColor:#ffffff;// #000000;
+$subTitle: #ffffff;//#868e96;
+$cardSubtitle:#ffffff;// #666666;
+$talkCardSubTitle:#ffffff;// #7f8287;
+$blogCardTitleColor:#ffffff;// #262626;
 
 // text color dark theme
 $textColorDark: #ffffff;
@@ -31,17 +31,17 @@ $githubProfileCardLocationTS: #ffebcd;
 $githubProfileCardBorder: #6c63ff;
 
 // light background colors
-$lightBackground1: #fff;
-$lightBackground2: rgb(255, 255, 255);
-$lightBackground3: #f5f2f4;
+$lightBackground1: #171c28;
+$lightBackground2: #171c28; //rgb(255, 255, 255);
+$lightBackground3: #171c28; //#f5f2f4;
 $blogCardContainerColor: #586069;
 // dark background colors
 $darkBackground: #171c28;
 
 // light theme box shadows
-$lightBoxShadowDark: rgba(0, 0, 0, 0.2);
-$lightBoxShadow: rgba(0, 0, 0, 0.1);
-$lightBoxShadowDarker: rgba(0, 0, 0, 0.3);
+$lightBoxShadowDark:#d9dbdf;// rgba(0, 0, 0, 0.2);
+$lightBoxShadow:#d9dbdf;// rgba(0, 0, 0, 0.1);
+$lightBoxShadowDarker:#d9dbdf;// rgba(0, 0, 0, 0.3);
 
 // dark theme box shadows
 $darkBoxShadow: #d9dbdf;
