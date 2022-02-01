@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.cbf6f1f9.chunk.css",
-    "main.js": "/static/js/main.d2b6a1b7.chunk.js",
-    "main.js.map": "/static/js/main.d2b6a1b7.chunk.js.map",
+    "main.js": "/static/js/main.41dd5237.chunk.js",
+    "main.js.map": "/static/js/main.41dd5237.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.93cd405b.js",
     "runtime-main.js.map": "/static/js/runtime-main.93cd405b.js.map",
     "static/js/2.c5679daf.chunk.js": "/static/js/2.c5679daf.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.6578f54d.chunk.js": "/static/js/4.6578f54d.chunk.js",
     "static/js/4.6578f54d.chunk.js.map": "/static/js/4.6578f54d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.69394d7ef76c7f4e9a1bde0f6945ce53.js": "/precache-manifest.69394d7ef76c7f4e9a1bde0f6945ce53.js",
+    "precache-manifest.dded13381f6de92fbd95cd1b437f174b.js": "/precache-manifest.dded13381f6de92fbd95cd1b437f174b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
@@ -25,7 +25,7 @@
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
     "static/media/facebookLogo.png": "/static/media/facebookLogo.0bd6a074.png",
-    "static/media/harvardLogo.png": "/static/media/harvardLogo.d6ff039b.png",
+    "static/media/harvardLogo.png": "/static/media/harvardLogo.60131220.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
     "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.474fa19d.webp",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
@@ -35,6 +35,6 @@
     "static/js/runtime-main.93cd405b.js",
     "static/js/2.c5679daf.chunk.js",
     "static/css/main.cbf6f1f9.chunk.css",
-    "static/js/main.d2b6a1b7.chunk.js"
+    "static/js/main.41dd5237.chunk.js"
   ]
 }
