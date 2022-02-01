@@ -203,7 +203,7 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("연락처"),
   subtitle:
-    "언제든지 일할 준비가 되어있습니다.",
+    "언제든지 일할 준비가 되어있습니다. ※이메일 주시면 자세한 이력서를 첨부해드리겠습니다",
   number: "010-3901-5700",
   email_address: "bamjin_e@protonmail.ch"
 };
