@@ -25,6 +25,7 @@ const Main = () => {
 
   const changeTheme = () => {
     setIsDark(!isDark);
+    setIsDark();
   };
 
   return (
