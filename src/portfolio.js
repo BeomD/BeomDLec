@@ -12,10 +12,8 @@ const illustration = {
 
 const greeting = {
   username: "범진",
-  title: String(`안녕하세요 신입개발자 
-  김범진입니다`) ,
-  subTitle: `계속 공부하고 발전하는 개발자 
-  김범진입니다`,
+  title: String(`안녕하세요 신입개발자 김범진입니다`) ,
+  subTitle: `계속 공부하고 발전하는 개발자 김범진입니다`,
   resumeLink:
     "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -158,8 +156,8 @@ const bigProjects = {
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
       projectName: "멀티프로세서 기반 스마트 IoT 피트니스 매트(Smart IoT Fitness Mattress based on Multi-Processor)",
-      projectDesc: `I2C통신 기반 다수의 Atmega 128 CPU 멀티프로세서 구성으로 다수의 센서정보 실시간 송수신(BT&Serial)
-      \nJava 기반 Guide SoftWare 탑재`
+      projectDesc: `I2C통신 기반 다수의 Atmega 128 CPU 멀티프로세서 구성으로 다수의 센서정보 실시간 송수신(BT&Serial)`+
+      <br/>+`Java 기반 Guide SoftWare 탑재`
     },
     
   ],
