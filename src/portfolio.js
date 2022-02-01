@@ -11,7 +11,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Beomjin",
+  username: "범진",
   title: String(`안녕하세요 신입개발자 
   김범진입니다`) ,
   subTitle: `계속 공부하고 발전하는 개발자 
@@ -37,9 +37,9 @@ const skillsSection = {
     "<어학>",
     "TOEIC : 805",
     "<자격>",
-    "한국사검정1능력 1급",
     "정보처리기사",
     "육상무선통신사",
+    "한국사검정1능력 1급",
     "<특징>",
     "임베디드를 전공하였기 때문에 C언어에 능통합니다.",
     "언어 학습 및 습득 속도가 빠릅니다",
@@ -85,7 +85,6 @@ const educationInfo = {
       subHeader: "Bachelor of Embedded System Engineering",
       duration: "March 2012 - Feb 2017",
       desc: "Senior Project : Smart IoT Fitness Mattress based on Multi-Processor",
-      descBullets: [      ]
     },
 
   ]
