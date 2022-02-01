@@ -34,11 +34,15 @@ const skillsSection = {
   title: "스킬",
   subTitle: "숙련된 C, Java 프로그래밍 능력을 보유하고 있으며 기초적인 HTML,CSS 능력을 보유하고있습니다",
   skills: [
-    "TOEIC : 805 한국사검정1능력 1급",
+    "<어학>",
+    "TOEIC : 805",
+    "<자격>",
+    "한국사검정1능력 1급",
     "정보처리기사",
     "육상무선통신사",
+    "<특징>",
     "임베디드를 전공하였기 때문에 C언어에 능통합니다.",
-    "언어 습득 속도가 빠릅니다",
+    "언어 학습 및 습득 속도가 빠릅니다",
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
