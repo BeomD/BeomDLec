@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.aa61aa43.chunk.css",
-    "main.js": "/static/js/main.cc417e24.chunk.js",
-    "main.js.map": "/static/js/main.cc417e24.chunk.js.map",
+    "main.js": "/static/js/main.26f9f2b3.chunk.js",
+    "main.js.map": "/static/js/main.26f9f2b3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b6244f4c.js",
     "runtime-main.js.map": "/static/js/runtime-main.b6244f4c.js.map",
     "static/js/2.c5679daf.chunk.js": "/static/js/2.c5679daf.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.6578f54d.chunk.js": "/static/js/4.6578f54d.chunk.js",
     "static/js/4.6578f54d.chunk.js.map": "/static/js/4.6578f54d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e38eb41088baa4c4942b444f890a86e8.js": "/precache-manifest.e38eb41088baa4c4942b444f890a86e8.js",
+    "precache-manifest.75af7f009d0c2c117f5dfcd1b8dde9a8.js": "/precache-manifest.75af7f009d0c2c117f5dfcd1b8dde9a8.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.8bc5a0b5.chunk.css.map": "/static/css/3.8bc5a0b5.chunk.css.map",
     "static/css/4.848ba872.chunk.css.map": "/static/css/4.848ba872.chunk.css.map",
@@ -27,7 +27,7 @@
     "static/media/facebookLogo.png": "/static/media/facebookLogo.0bd6a074.png",
     "static/media/harvardLogo.png": "/static/media/harvardLogo.60131220.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
-    "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.de95e3c5.webp",
+    "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.4ee39bf3.webp",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
     "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
   },
@@ -35,6 +35,6 @@
     "static/js/runtime-main.b6244f4c.js",
     "static/js/2.c5679daf.chunk.js",
     "static/css/main.aa61aa43.chunk.css",
-    "static/js/main.cc417e24.chunk.js"
+    "static/js/main.26f9f2b3.chunk.js"
   ]
 }
