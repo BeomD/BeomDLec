@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "179df42e5495600ded27a9cb574712ef",
+    "revision": "b9c78bb0b344d4cca4e0bd7b6eeb535c",
     "url": "/index.html"
   },
   {
-    "revision": "4d9e5e96fc49a0cf87aa",
-    "url": "/static/css/3.8bc5a0b5.chunk.css"
+    "revision": "205d4b546b3ca126c636",
+    "url": "/static/css/3.9317f33d.chunk.css"
   },
   {
-    "revision": "9a4978866a975578c898",
-    "url": "/static/css/4.848ba872.chunk.css"
+    "revision": "78ed5045fce8bc25ea92",
+    "url": "/static/css/4.cdc60294.chunk.css"
   },
   {
-    "revision": "7a975e07e16a2e8d23ba",
-    "url": "/static/css/main.aa61aa43.chunk.css"
+    "revision": "3ecf1096b511f05abc73",
+    "url": "/static/css/main.3e727178.chunk.css"
   },
   {
     "revision": "e1d9d9ad5914757c2e28",
@@ -24,20 +24,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.c5679daf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4d9e5e96fc49a0cf87aa",
+    "revision": "205d4b546b3ca126c636",
     "url": "/static/js/3.12b8de2b.chunk.js"
   },
   {
-    "revision": "9a4978866a975578c898",
+    "revision": "78ed5045fce8bc25ea92",
     "url": "/static/js/4.6578f54d.chunk.js"
   },
   {
-    "revision": "7a975e07e16a2e8d23ba",
-    "url": "/static/js/main.26f9f2b3.chunk.js"
+    "revision": "3ecf1096b511f05abc73",
+    "url": "/static/js/main.39bd469a.chunk.js"
   },
   {
-    "revision": "5f1ba631d18a05ecb2dd",
-    "url": "/static/js/runtime-main.b6244f4c.js"
+    "revision": "30dd93cff65ce6f57d36",
+    "url": "/static/js/runtime-main.d1981239.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "4ee39bf3693b12d50d44e5539fb48c26",
-    "url": "/static/media/saayaHealthLogo.4ee39bf3.webp"
+    "revision": "8201cd3c6d9b3eafdf0c42c4a610bfdd",
+    "url": "/static/media/saayaHealthLogo.8201cd3c.webp"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
