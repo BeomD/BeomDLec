@@ -157,8 +157,8 @@ const bigProjects = {
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
       projectName: "멀티프로세서 기반 스마트 IoT 피트니스 매트(Smart IoT Fitness Mattress based on Multi-Processor)",
-      projectDesc: utext="I2C통신 기반 다수의 Atmega 128 CPU 멀티프로세서 구성으로 다수의 센서정보 실시간 송수신(BT&Serial)\nJava 기반 Guide SoftWare 탑재"
-    
+      projectDesc: `I2C통신 기반 다수의 Atmega 128 CPU 멀티프로세서 구성으로 다수의 센서정보 실시간 송수신(BT&Serial) Java 기반 Guide SoftWare 탑재`
+
     },
     
   ],
