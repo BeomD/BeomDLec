@@ -139,7 +139,11 @@ const workExperiences = {
       company: "대한민국공군(ROKAF)",
       companylogo: require("./assets/images/airbnbLogo.png"),
       date: "Jan 2015 – Sep 2015",
-      desc: "경력기술예정"
+      desc: "경력기술예정",
+      descBullets: [
+        "경력기술예정",
+        " "
+    ]
     }
   ]
 };
@@ -155,7 +159,7 @@ const bigProjects = {
       image: require("./assets/images/saayaHealthLogo.webp"),
       projectName: "멀티프로세서 기반 스마트 IoT 피트니스 매트(Smart IoT Fitness Mattress based on Multi-Processor)",
       projectDesc: [
-          "I2C통신 기반 다수의 Atmega-128 CPU 멀티프로세서 구성 / 다수의 센서정보 실시간 송수신(BT&Serial) ",
+          "I2C통신 기반 Atmega-128 CPU 멀티프로세서 구성 / 센서정보 실시간 송수신(BT&Serial) / ",
           "Java 기반 Guide SoftWare 탑재",     
         ], 
     },
@@ -187,34 +191,37 @@ const contactInfo = {
     email_address: "bamjin_e@protonmail.ch"
   };
   
+
+
+
+
+
+
+
+//-----------------------------------------------------------------------------------------------------------------------------
 const openSource = {
     showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
     display: false // Set false to hide this section, defaults to true
   };
 // Blogs Section
-
 const blogSection = {
    display: false // Set false to hide this section, defaults to true
 };
-
 // Talks Sections
-
 const talkSection = {
   display: false // Set false to hide this section, defaults to true
 };
-
 // Podcast Section
-
 const podcastSection = {
   display: false // Set false to hide this section, defaults to true
 };
-
-
 // Twitter Section
-
 const twitterDetails = {
   display: false // Set true to display this section, defaults to false
 };
+//---------------------------------------------------------------------------------------------------------------------------------
+
+
 
 export {
   illustration,
