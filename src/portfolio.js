@@ -115,7 +115,7 @@ const techStack = {
         progressPercentage: "90%"
     },
   ],
-  displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
+  displayCodersrank: true // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
 
 // Work experience section
@@ -128,29 +128,22 @@ const workExperiences = {
       company: "대한민국공군(ROKAF)",
       companylogo: require("./assets/images/facebookLogo.png"),
       date: "Feb 2018 – May 2019",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "경력기술예정",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "경력기술예정",
         " "
       ]
     },
     {
-      role: "전자중대장(Commander of electrical and electronic)",
+      role: ["전자중대장","(Commander of electrical and electronic)"],
       company: "대한민국공군(ROKAF)",
       companylogo: require("./assets/images/airbnbLogo.png"),
       date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "경력기술예정"
     }
   ]
 };
 
-/* Your Open Source Section to View Your Github Pinned Projects
-To know how to get github key look at readme.md */
-
-const openSource = {
-  showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: false // Set false to hide this section, defaults to true
-};
 
 // Some big projects you have worked on
 
@@ -171,8 +164,6 @@ const bigProjects = {
   
 };
 
-// Achievement Section
-// Include certificates, talks etc
 
 const achievementSection = {
   title: emoji("Achievements And Certifications"),
@@ -186,6 +177,20 @@ const achievementSection = {
   display: false // Set false to hide this section, defaults to true
 };
 
+const contactInfo = {
+    title: emoji("연락처"),
+    subtitle:[
+      "언제든지 일할 준비가 되어있습니다.",
+      "※이메일 주시면 자세한 이력서를 첨부해드리겠습니다."
+    ],
+    number: "010-3901-5700",
+    email_address: "bamjin_e@protonmail.ch"
+  };
+  
+const openSource = {
+    showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
+    display: false // Set false to hide this section, defaults to true
+  };
 // Blogs Section
 
 const blogSection = {
@@ -204,15 +209,6 @@ const podcastSection = {
   display: false // Set false to hide this section, defaults to true
 };
 
-const contactInfo = {
-  title: emoji("연락처"),
-  subtitle:[
-    "언제든지 일할 준비가 되어있습니다.",
-    "※이메일 주시면 자세한 이력서를 첨부해드리겠습니다."
-  ],
-  number: "010-3901-5700",
-  email_address: "bamjin_e@protonmail.ch"
-};
 
 // Twitter Section
 
