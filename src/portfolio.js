@@ -22,7 +22,7 @@ const greeting = {
       "계속 공부하고 발전하는 ",
       "개발자 김범진입니다",
   ],
-  resumeLink:require("./resume.png"),//"https://github.com/BeomD/BeomD.github.io/resume.png", // Set to empty to hide the button
+  resumeLink:require("https://github.com/BeomD/BeomD.github.io/resume.png"),//"https://github.com/BeomD/BeomD.github.io/resume.png", // Set to empty to hide the button
   
   displayGreeting: true // Set false to hide this section, defaults to true
 };
