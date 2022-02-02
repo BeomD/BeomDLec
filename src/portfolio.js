@@ -14,7 +14,7 @@ const illustration = {
 const greeting = {
   username: "범진",
   title:[
-      "안녕하세요 ",
+      "Hi!  ",
       "신입개발자 ",
       "김범진입니다"],
   subTitle: 
