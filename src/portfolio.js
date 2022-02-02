@@ -153,13 +153,13 @@ const workExperiences = {
 
 const bigProjects = {
   title: "프로젝트",
-  subtitle: "진행했던 프로젝트",
+  subtitle: "Projects",
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
       projectName: "멀티프로세서 기반 스마트 IoT 피트니스 매트(Smart IoT Fitness Mattress based on Multi-Processor)",
       projectDesc: [
-          "I2C통신 기반 Atmega-128 CPU 멀티프로세서 구성 / 센서정보 실시간 송수신(BT&Serial) / ",
+          "학부졸업 프로젝트 / I2C통신 기반 Atmega-128 CPU 멀티프로세서 구성 / 센서정보 실시간 송수신(BT&Serial) / ",
           "Java 기반 Guide SoftWare 탑재",     
         ], 
     },
@@ -168,18 +168,6 @@ const bigProjects = {
   
 };
 
-
-const achievementSection = {
-  title: emoji("Achievements And Certifications"),
-  subtitle:
-    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
-
-  achievementsCards: [
-    {
-    }
-  ],
-  display: false // Set false to hide this section, defaults to true
-};
 
 const contactInfo = {
     title: emoji("연락처"),
@@ -194,6 +182,18 @@ const contactInfo = {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+  
 
 
 
@@ -218,6 +218,11 @@ const podcastSection = {
 const twitterDetails = {
   display: false // Set true to display this section, defaults to false
 };
+
+const achievementSection = {
+    display: false // Set false to hide this section, defaults to true
+  };
+  
 //---------------------------------------------------------------------------------------------------------------------------------
 
 
