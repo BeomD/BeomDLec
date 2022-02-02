@@ -44,8 +44,7 @@ export default function Greeting() {
                   <Button
                     text="See my resume"
                     newTab={true}
-                    //href={greeting.resumeLink}
-                    src={require("resume.tiff")}
+                    href={greeting.resumeLink}
                   />
                 )}
               </div>

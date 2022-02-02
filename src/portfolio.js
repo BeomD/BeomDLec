@@ -23,7 +23,7 @@ const greeting = {
       "개발자 김범진입니다",
   ],
   resumeLink:
-    "resume.tiff", // Set to empty to hide the button
+    "./resume.tiff", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -128,7 +128,7 @@ const workExperiences = {
       role: "서버관리자(HP-UX Server Administer)",
       company: "대한민국공군(ROKAF)",
       companylogo: require("./assets/images/facebookLogo.png"),
-      date: "Feb 2018 – May 2019",
+      date: "Feb 2018 – July 2019",
       desc: "경력기술예정",
       descBullets: [
         "경력기술예정",
@@ -139,7 +139,7 @@ const workExperiences = {
       role: ["전자중대장","(Commander of electrical and electronic)"],
       company: "대한민국공군(ROKAF)",
       companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
+      date: "July 2019 – Nov 2020",
       desc: "경력기술예정",
       descBullets: [
         "경력기술예정",
