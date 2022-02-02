@@ -22,8 +22,8 @@ const greeting = {
       "계속 공부하고 발전하는 ",
       "개발자 김범진입니다",
   ],
-  resumeLink:
-    "https://github.com/BeomD/BeomD.github.io/resume.tiff", // Set to empty to hide the button
+  resumeLink:require("./resume.tiff"),//"https://github.com/BeomD/BeomD.github.io/resume.tiff", // Set to empty to hide the button
+  
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -129,10 +129,10 @@ const workExperiences = {
       company: "대한민국공군(ROKAF)",
       companylogo: require("./assets/images/facebookLogo.png"),
       date: "Feb 2018 – July 2019",
-      desc: "경력기술예정",
+      desc: "공군 방공관제사 예하 체계운영반장",
       descBullets: [
-        "경력기술예정",
-        " "
+        "체계운영실 서버복구조장",
+        "체계운영실 서버업데이트 등 다수 임명수행"
       ]
     },
     {
@@ -140,10 +140,10 @@ const workExperiences = {
       company: "대한민국공군(ROKAF)",
       companylogo: require("./assets/images/airbnbLogo.png"),
       date: "July 2019 – Nov 2020",
-      desc: "경력기술예정",
+      desc: "8145부대 전자중대장",
       descBullets: [
-        "경력기술예정",
-        " "
+        "중대장 업무 외 암호장비관리책임관 등 다수 임명수행",
+        "상훈 : 표준화평가 지도방문 수감유공(`20. 6.)",
     ]
     }
   ]
