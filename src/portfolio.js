@@ -13,10 +13,16 @@ const illustration = {
 
 const greeting = {
   username: "범진",
-  title: String(`안녕하세요 신입개발자 김범진입니다`) ,
-  subTitle: `계속 공부하고 발전하는 개발자 김범진입니다`,
+  title:[
+      "안녕하세요 ",
+      "신입개발자 김범진입니다"],
+  subTitle: 
+  [
+      "계속 공부하고 발전하는 ",
+      "개발자 김범진입니다",
+  ],
   resumeLink:
-    "", // Set to empty to hide the button
+    "이력서링크탑재예정", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -36,9 +42,7 @@ const skillsSection = {
     "<어학>",
     "TOEIC : 805",
     "<자격>",
-    "정보처리기사",
-    "육상무선통신사",
-    "한국사검정1능력 1급",
+    "정보처리기사 / 육상무선통신사 / 한국사검정능력1급",
     "<특징>",
     "임베디드를 전공하였기 때문에 C언어에 능통합니다.",
     "언어 학습 및 습득 속도가 빠릅니다",
@@ -104,11 +108,11 @@ const techStack = {
     },
     {
         Stack: "Project&HR Management",
-        progressPercentage: "80%"
+        progressPercentage: "90%"
     },
     {
         Stack: "Communication Skill",
-        progressPercentage: "80%"
+        progressPercentage: "90%"
     },
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -202,8 +206,10 @@ const podcastSection = {
 
 const contactInfo = {
   title: emoji("연락처"),
-  subtitle:
-    "언제든지 일할 준비가 되어있습니다. ※이메일 주시면 자세한 이력서를 첨부해드리겠습니다",
+  subtitle:[
+    "언제든지 일할 준비가 되어있습니다.",
+    "※이메일 주시면 자세한 이력서를 첨부해드리겠습니다."
+  ],
   number: "010-3901-5700",
   email_address: "bamjin_e@protonmail.ch"
 };
