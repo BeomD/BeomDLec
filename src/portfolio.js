@@ -23,7 +23,7 @@ const greeting = {
       "개발자 김범진입니다",
   ],
   resumeLink:
-    "./resume.tiff", // Set to empty to hide the button
+    "https://github.com/BeomD/BeomD.github.io/resume.tiff", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
