@@ -16,7 +16,7 @@ const greeting = {
   title:[
       "Hi!  ",
       "신입개발자 ",
-      "김범진입니다"],
+      "김범진"],
   subTitle: 
   [
       "계속 공부하고 발전하는 ",
