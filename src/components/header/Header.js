@@ -74,10 +74,7 @@ function Header() {
             <a href="#contact">연락처</a>
           </li>
           <li>
-            {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
-            <a>
-              <ToggleSwitch />
-            </a>
+            {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}        
           </li>
         </ul>
       </header>
