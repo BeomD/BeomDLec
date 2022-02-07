@@ -173,7 +173,7 @@ const contactInfo = {
       "언제든지 일할 준비가 되어있습니다. ",
     ],
     number: "010-3901-5700",
-    email_address: "bamjin_e@protonmail.ch"
+    email_address: "bamjin_e@protonmail.com"
   };
   
 
