@@ -12,9 +12,9 @@ export default function Footer() {
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
         </p>
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
-          //Theme by{" "}
+          {" "}
           <a href="">
-          //  developerFolio // Ver Final
+          //  Ver Final  //
           </a>
         </p>
       </div>
