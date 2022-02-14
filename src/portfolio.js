@@ -133,7 +133,7 @@ const workExperiences = {
     {
         role: ["SW개발자","(SW Developer)"],
         company: "위노아이",
-        companylogo: require("./assets/images/airbnbLogo.png"),
+        companylogo: require("./assets/images/winoi.png"),
         date: "Feb 2022 ~",
         desc: "위노아이 SW개발자",
         descBullets: [
