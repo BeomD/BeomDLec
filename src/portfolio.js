@@ -101,24 +101,6 @@ const educationInfo = {
 
 // Your top 3 proficient stacks/tech experience
 
-const techStack = {
-  viewSkillBars: false, //Set it to true to show Proficiency Section
-  experience: [
-    {
-      Stack: "C", //Insert stack or technology you have experience in
-      progressPercentage: "90%" //Insert relative proficiency in percentage
-    },
-    {
-      Stack: "Java",
-      progressPercentage: "80%"
-    },
-    {
-        Stack: "HTML&CSS",
-        progressPercentage: "60%"
-    },
-  ],
-  displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
-};
 
 // Work experience section
 
@@ -201,6 +183,27 @@ const contactInfo = {
 
 
 //-----------------------------------------------------------------------------------------------------------------------------
+
+const techStack = {
+    viewSkillBars: false, //Set it to true to show Proficiency Section
+    experience: [
+      {
+        Stack: "C", //Insert stack or technology you have experience in
+        progressPercentage: "90%" //Insert relative proficiency in percentage
+      },
+      {
+        Stack: "Java",
+        progressPercentage: "80%"
+      },
+      {
+          Stack: "HTML&CSS",
+          progressPercentage: "60%"
+      },
+    ],
+    displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
+  };
+
+  
 const openSource = {
     showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
     display: false // Set false to hide this section, defaults to true
