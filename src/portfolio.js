@@ -39,7 +39,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "스킬",
-  subTitle: "숙련된 C, Java 프로그래밍 능력을 보유하고 있으며 기초적인 HTML,CSS 능력을 보유하고있습니다",
+  subTitle: "숙련된 C, Java, Kotlin 프로그래밍 능력을 보유하고 있으며 기초적인 HTML,CSS 능력을 보유하고있습니다",
   skills: [
     "<어학>",
     "TOEIC : 805",
@@ -129,7 +129,17 @@ const workExperiences = {
         "8145부대 정훈장교",
         "표준화평가 지도방문 수감유공(`20. 6.)",
     ]
-    }
+    },
+    {
+        role: ["SW개발자","(SW Developer)"],
+        company: "위노아이",
+        companylogo: require("./assets/images/airbnbLogo.png"),
+        date: "Feb 2022 ~",
+        desc: "위노아이 SW개발자",
+        descBullets: [
+          "코틀린 공부중",
+      ]
+      },  
   ]
 };
 
