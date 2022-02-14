@@ -42,7 +42,7 @@ function Header() {
           
           {viewSkills && (
             <li>
-              <a href="#skills">보유능력</a>
+              <a href="#skills">스펙</a>
                </li>
           )}
           {viewExperience && (
