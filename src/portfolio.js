@@ -75,7 +75,11 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
-    }
+    },
+    {
+      skillName: "Kotlin",
+      fontAwesomeClassname: "fab fa-kotlin"
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
