@@ -14,7 +14,7 @@ export default function Footer() {
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
           {" "}
           <a href="">
-          //  Ver Final  //
+          //  Updating......20220214  //
           </a>
         </p>
       </div>
