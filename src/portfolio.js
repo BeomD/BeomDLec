@@ -78,7 +78,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Kotlin",
-      fontAwesomeClassname: "fab fa-kotlin"
+      fontAwesomeClassname: "fas fa-android"
     },
   ],
   display: true // Set false to hide this section, defaults to true
@@ -203,7 +203,7 @@ const techStack = {
     displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
   };
 
-  
+
 const openSource = {
     showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
     display: false // Set false to hide this section, defaults to true
