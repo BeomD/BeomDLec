@@ -132,13 +132,11 @@ const workExperiences = {
     },
     {
         role: ["SW개발자","(SW Developer)"],
-        company: "위노아이",
+        company: "위노아이(WINOI)",
         companylogo: require("./assets/images/winoi.png"),
         date: "Feb 2022 ~",
         desc: "위노아이 SW개발자",
         descBullets: [
-          "중대장, 암호장비관리책임관 등 임명수행",
-          "8145부대 정훈장교",
           "코틀린 공부중",
       ]
       },  
