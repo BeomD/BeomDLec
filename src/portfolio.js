@@ -78,7 +78,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Kotlin",
-      fontAwesomeClassname: "fas fa-android"
+      fontAwesomeClassname: "fab fa-android"
     },
   ],
   display: true // Set false to hide this section, defaults to true
