@@ -159,21 +159,28 @@ const bigProjects = {
         ], 
     },
   ],
-  projects: [
-    {
-      image: require("./assets/images/denpic.png"),
-      projectName: "덴픽 DENPIC",
-      projectDesc: [
-          "Kotlin 기반 안드로이드 앱 ",
-          "UI 짜는중",     
-        ], 
-    },
-  ],
+ 
   display: true // Set false to hide this section, defaults to true
   
 };
 
-
+const bigProjects2 = {
+    title: "프로젝트",
+    subtitle: "Projects",
+    projects: [
+      {
+        image: require("./assets/images/denpic.png"),
+        projectName: "DENPIC",
+        projectDesc: [
+            "Kotlin기반 안드로이드 앱",
+          ], 
+      },
+    ],
+   
+    display: true // Set false to hide this section, defaults to true
+    
+  };
+  
 const contactInfo = {
     title: emoji("연락처"),
     subtitle:[
