@@ -159,6 +159,16 @@ const bigProjects = {
         ], 
     },
   ],
+  projects: [
+    {
+      image: require("./assets/images/denpic.png"),
+      projectName: "덴픽 DENPIC",
+      projectDesc: [
+          "Kotlin 기반 안드로이드 앱 ",
+          "UI 짜는중",     
+        ], 
+    },
+  ]
   display: true // Set false to hide this section, defaults to true
   
 };
