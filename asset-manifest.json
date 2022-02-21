@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.cbf6f1f9.chunk.css",
-    "main.js": "/static/js/main.713b01ba.chunk.js",
-    "main.js.map": "/static/js/main.713b01ba.chunk.js.map",
+    "main.js": "/static/js/main.ffcc2b69.chunk.js",
+    "main.js.map": "/static/js/main.ffcc2b69.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a857300d.js",
     "runtime-main.js.map": "/static/js/runtime-main.a857300d.js.map",
     "static/js/2.3368cd59.chunk.js": "/static/js/2.3368cd59.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.f813b2f4.chunk.js": "/static/js/4.f813b2f4.chunk.js",
     "static/js/4.f813b2f4.chunk.js.map": "/static/js/4.f813b2f4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.dc606cf641b82276f738eb6f27a6272a.js": "/precache-manifest.dc606cf641b82276f738eb6f27a6272a.js",
+    "precache-manifest.b2550423a1269723d686974fd408bbc4.js": "/precache-manifest.b2550423a1269723d686974fd408bbc4.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
@@ -29,13 +29,12 @@
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
     "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.8201cd3c.webp",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
-    "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg",
-    "static/media/winoi.png": "/static/media/winoi.90c347a4.png"
+    "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a857300d.js",
     "static/js/2.3368cd59.chunk.js",
     "static/css/main.cbf6f1f9.chunk.css",
-    "static/js/main.713b01ba.chunk.js"
+    "static/js/main.ffcc2b69.chunk.js"
   ]
 }
