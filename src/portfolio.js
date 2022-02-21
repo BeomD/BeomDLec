@@ -158,28 +158,19 @@ const bigProjects = {
           "Java 기반 Guide SoftWare 탑재",     
         ], 
     },
-  ],
- 
-  display: true // Set false to hide this section, defaults to true
-  
-};
-
-const bigProjects2 = {
-    title: "프로젝트",
-    subtitle: "Projects",
-    projects: [
-      {
+    {
         image: require("./assets/images/denpic.png"),
         projectName: "DENPIC",
         projectDesc: [
             "Kotlin기반 안드로이드 앱",
           ], 
       },
-    ],
-   
-    display: true // Set false to hide this section, defaults to true
-    
-  };
+  ],
+ 
+  display: true // Set false to hide this section, defaults to true
+  
+};
+
   
 const contactInfo = {
     title: emoji("연락처"),
