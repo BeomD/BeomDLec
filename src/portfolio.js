@@ -168,7 +168,7 @@ const bigProjects = {
           "UI 짜는중",     
         ], 
     },
-  ]
+  ],
   display: true // Set false to hide this section, defaults to true
   
 };
