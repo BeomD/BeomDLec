@@ -108,24 +108,20 @@ const skillsSection2 = {
         fontAwesomeClassname: "fas fa-function"
       },
       {
-        skillName: "고등",
-        fontAwesomeClassname: "fas fa-function"
-      },
-      {
-        skillName: "문항직출",
-        fontAwesomeClassname: "fas fa-file-lines"
-      },
-      {
         skillName: "미적분",
         fontAwesomeClassname: "fas fa-integral"
       },
       {
         skillName: "확률통계",
-        fontAwesomeClassname: "fas fa-function"
+        fontAwesomeClassname: "fas fa-chart-scatter-bubble"
       },
       {
         skillName: "기하",
-        fontAwesomeClassname: "fas fa-function"
+        fontAwesomeClassname: "fas fa-arrow-up-square-triangle"
+      },
+      {
+        skillName: "문항출제경험",
+        fontAwesomeClassname: "fas fa-file-lines"
       },
     ],
     display: true
