@@ -240,6 +240,7 @@ const workExperiences = {
           descBullets: [
             "초중등 복습관리수업 전임",
             "겨울방학 특강 수업 진행",
+            "중고등 클리닉식 수업",
         ]
       },  
       {
