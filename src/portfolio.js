@@ -199,7 +199,7 @@ const workExperiences = {
     experience: [
       {
         role: ["중고등 수학조교","(MathEducation Assistant)"],
-        company: "수학의 아침",
+        company: "수학의아침",
         companylogo: require("./assets/images/MorningMath.png"),
         date: "2013",
         desc: "중고등 수학조교",
