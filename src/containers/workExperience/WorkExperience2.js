@@ -1,13 +1,13 @@
 import React, {useContext} from "react";
 import "./WorkExperience.scss";
 import ExperienceCard from "../../components/experienceCard/ExperienceCard";
-import {workExperiences} from "../../portfolio";
+import {workExperiences2} from "../../portfolio";
 import {Fade} from "react-reveal";
 import StyleContext from "../../contexts/StyleContext";
 
 export default function WorkExperience() {
   const {isDark} = useContext(StyleContext);
-  if (workExperiences.display) {
+  if (workExperiences2.display) {
     return (
       <div id="experience">
         <Fade bottom duration={1000} distance="20px">
@@ -15,7 +15,7 @@ export default function WorkExperience() {
             <div>
               <h1 className="experience-heading">강의경력</h1>
               <div className="experience-cards-div">
-                {workExperiences.experience.map((card, i) => {
+                {workExperiences2.experience.map((card, i) => {
                   return (
                     <ExperienceCard
                       key={i}
