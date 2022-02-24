@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2d39614df64d8dcfa81123bbfa80d7f",
+    "revision": "7e08c16ec76ae13a840ba9d23cbeec7a",
     "url": "/index.html"
   },
   {
-    "revision": "227b09d61cd43aa793ad",
+    "revision": "2ec0a81941761267011a",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "305cd61022041ad99593",
+    "revision": "476d38f8fc1d1546692a",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "3807e8d2c80b53e778e6",
+    "revision": "5fbd59595499d43403ff",
     "url": "/static/css/main.cbf6f1f9.chunk.css"
   },
   {
-    "revision": "584f86a352db4ec9edf9",
-    "url": "/static/js/2.b3ddb514.chunk.js"
+    "revision": "715ab17a0bf9e8939bba",
+    "url": "/static/js/2.4408b280.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.b3ddb514.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.4408b280.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "227b09d61cd43aa793ad",
-    "url": "/static/js/3.d6257a4f.chunk.js"
+    "revision": "2ec0a81941761267011a",
+    "url": "/static/js/3.b77f0e1a.chunk.js"
   },
   {
-    "revision": "305cd61022041ad99593",
-    "url": "/static/js/4.4615f37b.chunk.js"
+    "revision": "476d38f8fc1d1546692a",
+    "url": "/static/js/4.a288f67d.chunk.js"
   },
   {
-    "revision": "3807e8d2c80b53e778e6",
-    "url": "/static/js/main.7496bc6d.chunk.js"
+    "revision": "5fbd59595499d43403ff",
+    "url": "/static/js/main.652cc6ea.chunk.js"
   },
   {
-    "revision": "a2e3a8b18c9119be4104",
-    "url": "/static/js/runtime-main.96dc8b99.js"
+    "revision": "94a242baa7f9763455fb",
+    "url": "/static/js/runtime-main.f325dd5d.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -78,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/static/media/developerActivity.59389695.svg"
+  },
+  {
+    "revision": "59389695208d7454c6607bed51ed4316",
+    "url": "/static/media/developerActivity2.59389695.svg"
   },
   {
     "revision": "0bd6a074ad6b137129abe56a0787de1e",
