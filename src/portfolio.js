@@ -101,7 +101,7 @@ const skillsSection2 = {
       },
       {
         skillName: "고등",
-        fontAwesomeClassname: "fab fa-android"
+        fontAwesomeClassname: "fa-solid fa-function"
       },
     ],
     display: true
