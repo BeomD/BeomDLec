@@ -136,7 +136,7 @@ const workExperiences = {
       {
           role: ["중고등 수학조교","MathEducation Assist"],
           company: "수학의 아침",
-          companylogo: require("./assets/images/winoi.png"),
+          companylogo: require("./assets/images/MorningMath.png"),
           date: "Feb 2022 ~",
           desc: "위노아이 SW개발자",
           descBullets: [
@@ -146,7 +146,7 @@ const workExperiences = {
       {
           role: ["중고등 수학조교","MathEducation Assist"],
           company: "하이젠수학",
-          companylogo: require("./assets/images/winoi.png"),
+          companylogo: require("./assets/images/Haizen.png"),
           date: "Feb 2022 ~",
           desc: "위노아이 SW개발자",
           descBullets: [
@@ -185,7 +185,7 @@ const workExperiences = {
       {
           role: ["관리팀장","Assistant Teacher Manager"],
           company: "블루M수학학원",
-          companylogo: require("./assets/images/winoi.png"),
+          companylogo: require("./assets/images/BlueM.jpg"),
           date: "Feb 2022 ~",
           desc: "파트->전임",
           descBullets: [
@@ -195,7 +195,7 @@ const workExperiences = {
       {
           role: ["복습관리담당",""],
           company: "픽수학학원",
-          companylogo: require("./assets/images/winoi.png"),
+          companylogo: require("./assets/images/Picksu.png"),
           date: "Feb 2022 ~",
           desc: "전임",
           descBullets: [
@@ -205,7 +205,7 @@ const workExperiences = {
       {
         role: ["중고등수학","&클리닉"],
         company: "공문수학학원",
-        companylogo: require("./assets/images/winoi.png"),
+        companylogo: require("./assets/images/GongmoonMath.png"),
         date: "Feb 2022 ~",
         desc: "파트",
         descBullets: [
