@@ -2,6 +2,7 @@ import React from "react";
 import Header from "../components/header/Header";
 import Greeting from "./greeting/Greeting";
 import Skills from "./skills/Skills";
+import Skills2 from "./skills/Skills2";
 import StackProgress from "./skillProgress/skillProgress";
 import WorkExperience from "./workExperience/WorkExperience";
 import WorkExperience2 from "./workExperience/WorkExperience2";
@@ -35,6 +36,7 @@ const Main = () => {
         <Header />
         <Greeting />
         <Skills />
+        <Skills2 />
         <StackProgress />
         <Education />
         <WorkExperience />

@@ -39,14 +39,14 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "스킬",
+  title: "Developer Skills",
   subTitle: "숙련된 C, Java, Kotlin 프로그래밍 능력을 보유하고 있으며 기초적인 HTML,CSS 능력을 보유하고있습니다",
   skills: [
    // "<어학>",
    // "TOEIC : 805",
-    "<자격>",
+    "<Certification>",
     "정보처리기사 / 육상무선통신사",
-    "<개발>",
+    "<Developer>",
     "임베디드를 전공하였기 때문에 C언어에 능통합니다.",
     "언어 학습 및 습득 속도가 빠릅니다",
   ],
@@ -78,13 +78,30 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "Kotlin",
+      skillName: "초등",
+      fontAwesomeClassname: "fab fa-android"
+    },
+    {
+      skillName: "중등",
+      fontAwesomeClassname: "fab fa-android"
+    },
+    {
+      skillName: "고등",
       fontAwesomeClassname: "fab fa-android"
     },
   ],
   display: true // Set false to hide this section, defaults to true
 };
 
+
+const skillsSection2 = {
+    title: "Lecturer Skills",
+    subTitle: "초,중,고 넓은 스펙트럼의 수학 지도 경력을 다년간 보유하고 있습니다",
+    skills: [ 
+      "조교부터 파트, 전임까지 차근차근 업무능력을 쌓아왔습니다",
+      "교육과정 변화에 발맞춰 지속적으로 학습, 지도해왔습니다",
+    ],
+}
 // Education Section
 const educationInfo = {
   display: false, // Set false to hide this section, defaults to true
@@ -315,7 +332,8 @@ export {
   illustration,
   greeting,
   socialMediaLinks,
-  skillsSection,
+  skillsSection,  
+  skillsSection2,
   educationInfo,
   techStack,
   workExperiences,
