@@ -78,6 +78,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-js"
     },
 
+    {
+        skillName: "Kotlin",
+        fontAwesomeClassname: "fab fa-android"
+      },
   ],
   display: true // Set false to hide this section, defaults to true
 };
