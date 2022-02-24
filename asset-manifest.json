@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.cbf6f1f9.chunk.css",
-    "main.js": "/static/js/main.a107d002.chunk.js",
-    "main.js.map": "/static/js/main.a107d002.chunk.js.map",
+    "main.js": "/static/js/main.47f66326.chunk.js",
+    "main.js.map": "/static/js/main.47f66326.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e455dc7d.js",
     "runtime-main.js.map": "/static/js/runtime-main.e455dc7d.js.map",
     "static/js/2.14103c4c.chunk.js": "/static/js/2.14103c4c.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.975e8b62.chunk.js": "/static/js/4.975e8b62.chunk.js",
     "static/js/4.975e8b62.chunk.js.map": "/static/js/4.975e8b62.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bc9d8b90b91114f38ee11993ce7618e1.js": "/precache-manifest.bc9d8b90b91114f38ee11993ce7618e1.js",
+    "precache-manifest.3305a4965ab539bed1474d2d65a9f7c7.js": "/precache-manifest.3305a4965ab539bed1474d2d65a9f7c7.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
@@ -24,6 +24,7 @@
     "static/media/BlueM.png": "/static/media/BlueM.f7a12d93.png",
     "static/media/GongmoonMath.png": "/static/media/GongmoonMath.f2c22187.png",
     "static/media/Haizen.png": "/static/media/Haizen.10d1b593.png",
+    "static/media/MorningMath.png": "/static/media/MorningMath.3bc144e5.png",
     "static/media/Picksu.png": "/static/media/Picksu.b83559aa.png",
     "static/media/airbnbLogo.png": "/static/media/airbnbLogo.0bd6a074.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
@@ -42,6 +43,6 @@
     "static/js/runtime-main.e455dc7d.js",
     "static/js/2.14103c4c.chunk.js",
     "static/css/main.cbf6f1f9.chunk.css",
-    "static/js/main.a107d002.chunk.js"
+    "static/js/main.47f66326.chunk.js"
   ]
 }
