@@ -132,6 +132,16 @@ const workExperiences = {
           "8145부대 정훈장교",
           "표준화평가 지도방문 수감유공(`20. 6.)",
       ]
+      },   
+      {
+        role: ["SW개발자","Software Developer"],
+        company: "위노아이(WINOI)",
+        companylogo: require("./assets/images/winoi.png"),
+        date: "July 2019 – Nov 2020",
+        desc: "Kotlin Android Developer",
+        descBullets: [
+          "Kotlin기반 Android 개발자",
+      ]
       },
       {
           role: ["중고등 수학조교","MathEducation Assist"],
