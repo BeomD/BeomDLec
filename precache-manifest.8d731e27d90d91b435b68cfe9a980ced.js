@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f14c0ae86ebb414e3f6fa4257ce51a79",
+    "revision": "7d165fa48ef4e7d6f8b2b2abac54bd9e",
     "url": "/index.html"
   },
   {
-    "revision": "3d0bfb8a1d216d33d16f",
+    "revision": "a46d2541c5e3e81652e8",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "fe001b2e89b8e12f88d6",
+    "revision": "305cd61022041ad99593",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "7e8888bcba22f985f2a4",
+    "revision": "cf0927f6c9a6351ceae5",
     "url": "/static/css/main.cbf6f1f9.chunk.css"
   },
   {
-    "revision": "c53f40dd2677ac297d13",
-    "url": "/static/js/2.d0bdaf25.chunk.js"
+    "revision": "3c344fcba56cdb3d040f",
+    "url": "/static/js/2.417dde43.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.d0bdaf25.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.417dde43.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3d0bfb8a1d216d33d16f",
-    "url": "/static/js/3.e7fa70b0.chunk.js"
+    "revision": "a46d2541c5e3e81652e8",
+    "url": "/static/js/3.f6bfb2c1.chunk.js"
   },
   {
-    "revision": "fe001b2e89b8e12f88d6",
-    "url": "/static/js/4.4d756a54.chunk.js"
+    "revision": "305cd61022041ad99593",
+    "url": "/static/js/4.4615f37b.chunk.js"
   },
   {
-    "revision": "7e8888bcba22f985f2a4",
-    "url": "/static/js/main.c0bc4652.chunk.js"
+    "revision": "cf0927f6c9a6351ceae5",
+    "url": "/static/js/main.39764d76.chunk.js"
   },
   {
-    "revision": "637e31eaaeeda45d0dcf",
-    "url": "/static/js/runtime-main.df6c7971.js"
+    "revision": "d6ef6eed7dc88dbfbb0d",
+    "url": "/static/js/runtime-main.46905b56.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -102,5 +102,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
     "url": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  {
+    "revision": "6ec2aea38afc305d05763bb521af8b30",
+    "url": "/static/media/winoi.6ec2aea3.png"
   }
 ]);
