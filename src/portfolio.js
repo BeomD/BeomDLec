@@ -187,7 +187,8 @@ const workExperiences = {
         date: "2013",
         desc: "중고등 수학조교",
         descBullets: [
-          "업무내용",
+          "중고등 자습실 수학 질의응답",
+          "개별 클리닉 수업 진행"
       ]
     },  
     {
@@ -197,7 +198,9 @@ const workExperiences = {
         date: "2013",
         desc: "중고등 수학조교",
         descBullets: [
-          "업무내용",
+          "중고등 자습실 수학 질의응답",
+          "개별 클리닉 수업 진행"
+",
       ]
     },   
       {
@@ -207,7 +210,9 @@ const workExperiences = {
           date: "2013 ~ 2017",
           desc: "파트&전임",
           descBullets: [
-            "업무내용",
+            "중고등 수학질의",
+            "관리조교 인사업무(선발 및 배정,관리)",
+            "관리조교 선발시험 직접출제"
         ]
       },  
       {
@@ -217,7 +222,8 @@ const workExperiences = {
           date: "2021.Nov ~ 2022 Feb",
           desc: "전임",
           descBullets: [
-            "업무내용",
+            "초중등 복습관리수업 전임",
+            "겨울방학 특강 수업 진행"
         ]
       },  
       {
@@ -227,7 +233,7 @@ const workExperiences = {
         date: "2022 Feb ~ 재직중",
         desc: "파트",
         descBullets: [
-          "업무내용",
+          "중고등 파트",
       ]
     },      
     ]
