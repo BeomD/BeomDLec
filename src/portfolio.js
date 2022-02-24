@@ -329,6 +329,7 @@ export {
   blogSection,
   talkSection,
   podcastSection,
+  workExperiences2,
   contactInfo,
-  twitterDetails
+  twitterDetails,
 };
