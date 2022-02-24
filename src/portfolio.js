@@ -19,10 +19,11 @@ const greeting = {
       "범진"],
   subTitle: 
   [
-      "계속 공부하고 발전하는 ",
-      "개발자 김범진입니다",
+      "계속 노력하는",
+      "개발자, 강사 김범진입니다",
   ],
-  resumeLink: "https://www.dropbox.com/s/gwxtmd1cyy9l2g1/%EA%B9%80%EB%B2%94%EC%A7%84_%EA%B8%B0%EB%B3%B8%20%EC%8B%A0%EC%9E%85%20%EC%9D%B4%EB%A0%A5%EC%84%9C%20.pdf?dl=0", 
+  resumeLink:"",
+  //resumeLink: "https://www.dropbox.com/s/gwxtmd1cyy9l2g1/%EA%B9%80%EB%B2%94%EC%A7%84_%EA%B8%B0%EB%B3%B8%20%EC%8B%A0%EC%9E%85%20%EC%9D%B4%EB%A0%A5%EC%84%9C%20.pdf?dl=0", 
   // Set to empty to hide the button
   
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -41,13 +42,15 @@ const skillsSection = {
   title: "스킬",
   subTitle: "숙련된 C, Java, Kotlin 프로그래밍 능력을 보유하고 있으며 기초적인 HTML,CSS 능력을 보유하고있습니다",
   skills: [
-    "<어학>",
-    "TOEIC : 805",
+   // "<어학>",
+   // "TOEIC : 805",
     "<자격>",
-    "정보처리기사 / 육상무선통신사 / 한국사검정능력1급",
-    "<특징>",
+    "정보처리기사 / 육상무선통신사",
+    "<개발>",
     "임베디드를 전공하였기 때문에 C언어에 능통합니다.",
     "언어 학습 및 습득 속도가 빠릅니다",
+    "<강의>"
+    "초등~고등 다년간 경력을 보유하고 있습니다."
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -86,7 +89,7 @@ https://fontawesome.com/icons?d=gallery */
 
 // Education Section
 const educationInfo = {
-  display: true, // Set false to hide this section, defaults to true
+  display: false, // Set false to hide this section, defaults to true
   schools: [
     {
       schoolName: "Incheon National University",
@@ -139,7 +142,35 @@ const workExperiences = {
         descBullets: [
           "코틀린 공부중",
       ]
-      },  
+    },  
+    {
+        role: ["SW개발자","(SW Developer)"],
+        company: "위노아이(WINOI)",
+        companylogo: require("./assets/images/winoi.png"),
+        date: "Feb 2022 ~",
+        desc: "위노아이 SW개발자",
+        descBullets: [
+          "코틀린 공부중",
+      ]
+    },    {
+        role: ["SW개발자","(SW Developer)"],
+        company: "위노아이(WINOI)",
+        companylogo: require("./assets/images/winoi.png"),
+        date: "Feb 2022 ~",
+        desc: "위노아이 SW개발자",
+        descBullets: [
+          "코틀린 공부중",
+      ]
+    },    {
+        role: ["SW개발자","(SW Developer)"],
+        company: "위노아이(WINOI)",
+        companylogo: require("./assets/images/winoi.png"),
+        date: "Feb 2022 ~",
+        desc: "위노아이 SW개발자",
+        descBullets: [
+          "Kotlin Android Developer",
+      ]
+    },
   ]
 };
 
@@ -162,7 +193,7 @@ const bigProjects = {
         image: require("./assets/images/denpic.png"),
         projectName: "DENPIC",
         projectDesc: [
-            "Kotlin기반 안드로이드 앱",
+            "Kotlin기반 안드로이드 앱 개발 진행중",
           ], 
       },
   ],
