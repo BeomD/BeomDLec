@@ -12,14 +12,14 @@ const illustration = {
 };
 
 const greeting = {
-  username: "범진",
+  username: "BEOMJIN",
   title:[
       "Hi!  ",
       "FreeLancer ",
       "BEOMJIN"],
   subTitle: 
   [
-      "계속 발전하는 ",
+      "끊임없이 발전하는 ",
       "개발자&수학강사 김범진입니다",
   ],
   resumeLink:"",
@@ -186,7 +186,7 @@ const workExperiences = {
         company: "위노아이(WINOI)",
         companylogo: require("./assets/images/winoi.png"),
         date: "2022 ~ 재직중",
-        desc: "Kotlin Android Developer",
+        desc: "서울 서대문구 연세로2나길61",
         descBullets: [
           "Kotlin기반 Android 개발자",
       ]
@@ -244,7 +244,7 @@ const workExperiences = {
         ]
       },
       {
-        role: ["중고등수학","&클리닉"],
+        role: ["중고등수학 파트"],
         company: "",
         //companylogo: require("./assets/images/GongmoonMath.png"),
         date: "2022 Feb ~ 재직중",
