@@ -189,7 +189,7 @@ const workExperiences = {
       {
           role: ["관리팀장","Assistant Teacher Manager"],
           company: "블루M수학학원",
-          companylogo: require("./assets/images/BlueM.jpg"),
+          companylogo: require("./assets/images/BlueM.png"),
           date: "Feb 2022 ~",
           desc: "파트&전임",
           descBullets: [
