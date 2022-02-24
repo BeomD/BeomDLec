@@ -77,18 +77,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
     },
-    {
-      skillName: "초등",
-      fontAwesomeClassname: "fab fa-android"
-    },
-    {
-      skillName: "중등",
-      fontAwesomeClassname: "fab fa-android"
-    },
-    {
-      skillName: "고등",
-      fontAwesomeClassname: "fab fa-android"
-    },
+
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -100,8 +89,29 @@ const skillsSection2 = {
     skills: [ 
       "조교부터 파트, 전임까지 차근차근 업무능력을 쌓아왔습니다",
       "교육과정 변화에 발맞춰 지속적으로 학습, 지도해왔습니다",
+    ],    
+      softwareSkills: [
+      {
+        skillName: "초등",
+        fontAwesomeClassname: "fab fa-android"
+      },
+      {
+        skillName: "중등",
+        fontAwesomeClassname: "fab fa-android"
+      },
+      {
+        skillName: "고등",
+        fontAwesomeClassname: "fab fa-android"
+      },
     ],
+    display: true
 }
+
+
+
+
+
+
 // Education Section
 const educationInfo = {
   display: false, // Set false to hide this section, defaults to true
