@@ -242,7 +242,18 @@ const workExperiences = {
             "겨울방학 특강 수업 진행",
             "중고등 클리닉식 수업",
         ]
+      },
+      {
+        role: ["중고등수학","&클리닉"],
+        company: "",
+        //companylogo: require("./assets/images/GongmoonMath.png"),
+        date: "2022 Feb ~ 재직중",
+        desc: "파트",
+        descBullets: [
+          "재직중",
+      ]
       },  
+      /*  
       {
         role: ["중고등수학","&클리닉"],
         company: "공문수학학원",
@@ -252,7 +263,8 @@ const workExperiences = {
         descBullets: [
           "중고등 파트",
       ]
-    },      
+    },  
+    */    
     ]
   };
 
