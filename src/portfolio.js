@@ -97,7 +97,7 @@ const skillsSection2 = {
       softwareSkills: [
       {
         skillName: "초등",
-        fontAwesomeClassname: "fas fa-calculator-simple"
+        fontAwesomeClassname: "fas fa-calculator-alt"
       },
       {
         skillName: "중등",
