@@ -1,6 +1,6 @@
 import React, {useContext} from "react";
 import "./Skills.scss";
-import SoftwareSkill from "../../components/softwareSkills/SoftwareSkill";
+import SoftwareSkill2 from "../../components/softwareSkills/SoftwareSkill";
 import {illustration, skillsSection2} from "../../portfolio";
 import {Fade} from "react-reveal";
 import codingPerson from "../../assets/lottie/codingPerson2";
