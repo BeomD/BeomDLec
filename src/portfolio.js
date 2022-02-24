@@ -137,32 +137,12 @@ const workExperiences = {
         role: ["SW개발자","Software Developer"],
         company: "위노아이(WINOI)",
         companylogo: require("./assets/images/winoi.png"),
-        date: "July 2019 – Nov 2020",
+        date: "2022 ~ 재직중",
         desc: "Kotlin Android Developer",
         descBullets: [
           "Kotlin기반 Android 개발자",
       ]
       },
-      {
-          role: ["중고등 수학조교","MathEducation Assist"],
-          company: "수학의 아침",
-          companylogo: require("./assets/images/MorningMath.png"),
-          date: "Feb 2022 ~",
-          desc: "위노아이 SW개발자",
-          descBullets: [
-            "코틀린 공부중",
-        ]
-      },  
-      {
-          role: ["중고등 수학조교","MathEducation Assist"],
-          company: "하이젠수학",
-          companylogo: require("./assets/images/Haizen.png"),
-          date: "Feb 2022 ~",
-          desc: "위노아이 SW개발자",
-          descBullets: [
-            "코틀린 공부중",
-        ]
-      },   
     ]
   };
 
@@ -170,34 +150,31 @@ const workExperiences = {
     display: true, //Set it to true to show workExperiences Section
     experience: [
       {
-        role: "서버관리자(HP-UX Server Administer)",
-        company: "대한민국공군(ROKAF)",
-        companylogo: require("./assets/images/facebookLogo.png"),
-        date: "Feb 2018 – July 2019",
-        desc: "공군 방공관제사 예하 체계운영반장",
+        role: ["중고등 수학조교","MathEducation Assist"],
+        company: "수학의 아침",
+        companylogo: require("./assets/images/MorningMath.png"),
+        date: "Feb 2022 ~",
+        desc: "중고등 수학조교",
         descBullets: [
-          "체계운영실 서버복구조장",
-          "체계운영실 서버업데이트 등 임명수행"
-        ]
-      },
-      {
-        role: ["전자중대장","(Commander of electrical and electronic)"],
-        company: "대한민국공군(ROKAF)",
-        companylogo: require("./assets/images/airbnbLogo.png"),
-        date: "July 2019 – Nov 2020",
-        desc: "8145부대 전자중대장",
-        descBullets: [
-          "중대장, 암호장비관리책임관 등 임명수행",
-          "8145부대 정훈장교",
-          "표준화평가 지도방문 수감유공(`20. 6.)",
+          "업무내용",
       ]
-      },
+    },  
+    {
+        role: ["중고등 수학조교","MathEducation Assist"],
+        company: "하이젠수학",
+        companylogo: require("./assets/images/Haizen.png"),
+        date: "Feb 2022 ~",
+        desc: "중고등 수학조교",
+        descBullets: [
+          "업무내용",
+      ]
+    },   
       {
           role: ["관리팀장","Assistant Teacher Manager"],
           company: "블루M수학학원",
           companylogo: require("./assets/images/BlueM.jpg"),
           date: "Feb 2022 ~",
-          desc: "파트->전임",
+          desc: "파트&전임",
           descBullets: [
             "업무내용",
         ]
@@ -216,7 +193,7 @@ const workExperiences = {
         role: ["중고등수학","&클리닉"],
         company: "공문수학학원",
         companylogo: require("./assets/images/GongmoonMath.png"),
-        date: "Feb 2022 ~",
+        date: "2022 ~ 재직중",
         desc: "파트",
         descBullets: [
           "업무내용",
