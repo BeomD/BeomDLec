@@ -15,12 +15,12 @@ const greeting = {
   username: "범진",
   title:[
       "Hi!  ",
-      "신입개발자 ",
-      "범진"],
+      "프리랜서",
+      "BEOMJIN"],
   subTitle: 
   [
       "계속 발전하는 ",
-      "개발자 김범진입니다",
+      "개발자/수학강사 김범진입니다",
   ],
   resumeLink:"",
   //resumeLink: "https://www.dropbox.com/s/gwxtmd1cyy9l2g1/%EA%B9%80%EB%B2%94%EC%A7%84_%EA%B8%B0%EB%B3%B8%20%EC%8B%A0%EC%9E%85%20%EC%9D%B4%EB%A0%A5%EC%84%9C%20.pdf?dl=0", 
@@ -134,8 +134,8 @@ const workExperiences = {
       ]
       },
       {
-          role: ["SW개발자","(SW Developer)"],
-          company: "위노아이(WINOI)",
+          role: ["중고등 수학조교","MathEducation Assist"],
+          company: "수학의 아침",
           companylogo: require("./assets/images/winoi.png"),
           date: "Feb 2022 ~",
           desc: "위노아이 SW개발자",
@@ -144,8 +144,8 @@ const workExperiences = {
         ]
       },  
       {
-          role: ["SW개발자","(SW Developer)"],
-          company: "위노아이(WINOI)",
+          role: ["중고등 수학조교","MathEducation Assist"],
+          company: "하이젠수학",
           companylogo: require("./assets/images/winoi.png"),
           date: "Feb 2022 ~",
           desc: "위노아이 SW개발자",
@@ -183,25 +183,35 @@ const workExperiences = {
       ]
       },
       {
-          role: ["SW개발자","(SW Developer)"],
-          company: "위노아이(WINOI)",
+          role: ["관리팀장","Assistant Teacher Manager"],
+          company: "블루M수학학원",
           companylogo: require("./assets/images/winoi.png"),
           date: "Feb 2022 ~",
-          desc: "위노아이 SW개발자",
+          desc: "파트->전임",
           descBullets: [
-            "코틀린 공부중",
+            "업무내용",
         ]
       },  
       {
-          role: ["SW개발자","(SW Developer)"],
-          company: "위노아이(WINOI)",
+          role: ["복습관리담당",""],
+          company: "픽수학학원",
           companylogo: require("./assets/images/winoi.png"),
           date: "Feb 2022 ~",
-          desc: "위노아이 SW개발자",
+          desc: "전임",
           descBullets: [
-            "코틀린 공부중",
+            "업무내용",
         ]
-      },    
+      },  
+      {
+        role: ["중고등수학","&클리닉"],
+        company: "공문수학학원",
+        companylogo: require("./assets/images/winoi.png"),
+        date: "Feb 2022 ~",
+        desc: "파트",
+        descBullets: [
+          "업무내용",
+      ]
+    },      
     ]
   };
 
@@ -329,7 +339,6 @@ export {
   blogSection,
   talkSection,
   podcastSection,
-  workExperiences2,
   contactInfo,
   twitterDetails,
 };
