@@ -107,6 +107,26 @@ const skillsSection2 = {
         skillName: "고등",
         fontAwesomeClassname: "fas fa-function"
       },
+      {
+        skillName: "고등",
+        fontAwesomeClassname: "fas fa-function"
+      },
+      {
+        skillName: "문항직출",
+        fontAwesomeClassname: "fas fa-file-lines"
+      },
+      {
+        skillName: "미적분",
+        fontAwesomeClassname: "fas fa-integral"
+      },
+      {
+        skillName: "확률통계",
+        fontAwesomeClassname: "fas fa-function"
+      },
+      {
+        skillName: "기하",
+        fontAwesomeClassname: "fas fa-function"
+      },
     ],
     display: true
 }
@@ -199,8 +219,7 @@ const workExperiences = {
         desc: "중고등 수학조교",
         descBullets: [
           "중고등 자습실 수학 질의응답",
-          "개별 클리닉 수업 진행"
-",
+          "개별 클리닉 수업 진행",
       ]
     },   
       {
@@ -223,7 +242,7 @@ const workExperiences = {
           desc: "전임",
           descBullets: [
             "초중등 복습관리수업 전임",
-            "겨울방학 특강 수업 진행"
+            "겨울방학 특강 수업 진행",
         ]
       },  
       {
