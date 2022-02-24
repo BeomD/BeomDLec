@@ -105,72 +105,106 @@ const educationInfo = {
 
 // Work experience section
 
+
+
 const workExperiences = {
-  display: true, //Set it to true to show workExperiences Section
-  experience: [
-    {
-      role: "서버관리자(HP-UX Server Administer)",
-      company: "대한민국공군(ROKAF)",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "Feb 2018 – July 2019",
-      desc: "공군 방공관제사 예하 체계운영반장",
-      descBullets: [
-        "체계운영실 서버복구조장",
-        "체계운영실 서버업데이트 등 임명수행"
+    display: true, //Set it to true to show workExperiences Section
+    experience: [
+      {
+        role: "서버관리자(HP-UX Server Administer)",
+        company: "대한민국공군(ROKAF)",
+        companylogo: require("./assets/images/facebookLogo.png"),
+        date: "Feb 2018 – July 2019",
+        desc: "공군 방공관제사 예하 체계운영반장",
+        descBullets: [
+          "체계운영실 서버복구조장",
+          "체계운영실 서버업데이트 등 임명수행"
+        ]
+      },
+      {
+        role: ["전자중대장","(Commander of electrical and electronic)"],
+        company: "대한민국공군(ROKAF)",
+        companylogo: require("./assets/images/airbnbLogo.png"),
+        date: "July 2019 – Nov 2020",
+        desc: "8145부대 전자중대장",
+        descBullets: [
+          "중대장, 암호장비관리책임관 등 임명수행",
+          "8145부대 정훈장교",
+          "표준화평가 지도방문 수감유공(`20. 6.)",
       ]
-    },
-    {
-      role: ["전자중대장","(Commander of electrical and electronic)"],
-      company: "대한민국공군(ROKAF)",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "July 2019 – Nov 2020",
-      desc: "8145부대 전자중대장",
-      descBullets: [
-        "중대장, 암호장비관리책임관 등 임명수행",
-        "8145부대 정훈장교",
-        "표준화평가 지도방문 수감유공(`20. 6.)",
+      },
+      {
+          role: ["SW개발자","(SW Developer)"],
+          company: "위노아이(WINOI)",
+          companylogo: require("./assets/images/winoi.png"),
+          date: "Feb 2022 ~",
+          desc: "위노아이 SW개발자",
+          descBullets: [
+            "코틀린 공부중",
+        ]
+      },  
+      {
+          role: ["SW개발자","(SW Developer)"],
+          company: "위노아이(WINOI)",
+          companylogo: require("./assets/images/winoi.png"),
+          date: "Feb 2022 ~",
+          desc: "위노아이 SW개발자",
+          descBullets: [
+            "코틀린 공부중",
+        ]
+      },   
     ]
-    },
-    {
-        role: ["SW개발자","(SW Developer)"],
-        company: "위노아이(WINOI)",
-        companylogo: require("./assets/images/winoi.png"),
-        date: "Feb 2022 ~",
-        desc: "위노아이 SW개발자",
+  };
+
+  const workExperiences2 = {
+    display: true, //Set it to true to show workExperiences Section
+    experience: [
+      {
+        role: "서버관리자(HP-UX Server Administer)",
+        company: "대한민국공군(ROKAF)",
+        companylogo: require("./assets/images/facebookLogo.png"),
+        date: "Feb 2018 – July 2019",
+        desc: "공군 방공관제사 예하 체계운영반장",
         descBullets: [
-          "코틀린 공부중",
-      ]
-    },  
-    {
-        role: ["SW개발자","(SW Developer)"],
-        company: "위노아이(WINOI)",
-        companylogo: require("./assets/images/winoi.png"),
-        date: "Feb 2022 ~",
-        desc: "위노아이 SW개발자",
+          "체계운영실 서버복구조장",
+          "체계운영실 서버업데이트 등 임명수행"
+        ]
+      },
+      {
+        role: ["전자중대장","(Commander of electrical and electronic)"],
+        company: "대한민국공군(ROKAF)",
+        companylogo: require("./assets/images/airbnbLogo.png"),
+        date: "July 2019 – Nov 2020",
+        desc: "8145부대 전자중대장",
         descBullets: [
-          "코틀린 공부중",
+          "중대장, 암호장비관리책임관 등 임명수행",
+          "8145부대 정훈장교",
+          "표준화평가 지도방문 수감유공(`20. 6.)",
       ]
-    },    {
-        role: ["SW개발자","(SW Developer)"],
-        company: "위노아이(WINOI)",
-        companylogo: require("./assets/images/winoi.png"),
-        date: "Feb 2022 ~",
-        desc: "위노아이 SW개발자",
-        descBullets: [
-          "코틀린 공부중",
-      ]
-    },    {
-        role: ["SW개발자","(SW Developer)"],
-        company: "위노아이(WINOI)",
-        companylogo: require("./assets/images/winoi.png"),
-        date: "Feb 2022 ~",
-        desc: "위노아이 SW개발자",
-        descBullets: [
-          "Kotlin Android Developer",
-      ]
-    },
-  ]
-};
+      },
+      {
+          role: ["SW개발자","(SW Developer)"],
+          company: "위노아이(WINOI)",
+          companylogo: require("./assets/images/winoi.png"),
+          date: "Feb 2022 ~",
+          desc: "위노아이 SW개발자",
+          descBullets: [
+            "코틀린 공부중",
+        ]
+      },  
+      {
+          role: ["SW개발자","(SW Developer)"],
+          company: "위노아이(WINOI)",
+          companylogo: require("./assets/images/winoi.png"),
+          date: "Feb 2022 ~",
+          desc: "위노아이 SW개발자",
+          descBullets: [
+            "코틀린 공부중",
+        ]
+      },    
+    ]
+  };
+
 
 
 // Some big projects you have worked on
@@ -288,6 +322,7 @@ export {
   educationInfo,
   techStack,
   workExperiences,
+  workExperiences2,
   openSource,
   bigProjects,
   achievementSection,
