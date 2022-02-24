@@ -20,7 +20,7 @@ const greeting = {
   subTitle: 
   [
       "계속 노력하는",
-      "개발자, 강사 김범진입니다",
+      "개발자 김범진입니다",
   ],
   resumeLink:"",
   //resumeLink: "https://www.dropbox.com/s/gwxtmd1cyy9l2g1/%EA%B9%80%EB%B2%94%EC%A7%84_%EA%B8%B0%EB%B3%B8%20%EC%8B%A0%EC%9E%85%20%EC%9D%B4%EB%A0%A5%EC%84%9C%20.pdf?dl=0", 
@@ -49,8 +49,6 @@ const skillsSection = {
     "<개발>",
     "임베디드를 전공하였기 때문에 C언어에 능통합니다.",
     "언어 학습 및 습득 속도가 빠릅니다",
-    "<강의>"
-    "초등~고등 다년간 경력을 보유하고 있습니다."
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
