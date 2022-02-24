@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d165fa48ef4e7d6f8b2b2abac54bd9e",
+    "revision": "877ad7eb4090e5324622fe67ee93128a",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "cf0927f6c9a6351ceae5",
+    "revision": "5924be05c40265df3e0c",
     "url": "/static/css/main.cbf6f1f9.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.4615f37b.chunk.js"
   },
   {
-    "revision": "cf0927f6c9a6351ceae5",
-    "url": "/static/js/main.39764d76.chunk.js"
+    "revision": "5924be05c40265df3e0c",
+    "url": "/static/js/main.685c30a7.chunk.js"
   },
   {
     "revision": "d6ef6eed7dc88dbfbb0d",
@@ -44,24 +44,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Agustina.21f233e1.woff"
   },
   {
-    "revision": "e5d09d75d3182b15b97889456f822114",
-    "url": "/static/media/BlueM.e5d09d75.jpg"
+    "revision": "e6b2007f48ae1a019ad1a679e040dc26",
+    "url": "/static/media/BlueM.e6b2007f.jpg"
   },
   {
-    "revision": "f6fb81b2892136f32a1ba294e35c9f55",
-    "url": "/static/media/GongmoonMath.f6fb81b2.png"
+    "revision": "f2c221877add4e4977c07bb62bf3b2a3",
+    "url": "/static/media/GongmoonMath.f2c22187.png"
   },
   {
-    "revision": "6c4fb83f86b14dfa8b8b0f847526c8f0",
-    "url": "/static/media/Haizen.6c4fb83f.png"
+    "revision": "10d1b593092b9621d56881d768104c70",
+    "url": "/static/media/Haizen.10d1b593.png"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "62a68b31f36e998817295a0359d52fbd",
-    "url": "/static/media/Picksu.62a68b31.png"
+    "revision": "b83559aa1cb6aa9787982752e662ddef",
+    "url": "/static/media/Picksu.b83559aa.png"
   },
   {
     "revision": "0bd6a074ad6b137129abe56a0787de1e",
