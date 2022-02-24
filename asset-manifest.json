@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.cbf6f1f9.chunk.css",
-    "main.js": "/static/js/main.685c30a7.chunk.js",
-    "main.js.map": "/static/js/main.685c30a7.chunk.js.map",
+    "main.js": "/static/js/main.b73b9601.chunk.js",
+    "main.js.map": "/static/js/main.b73b9601.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.46905b56.js",
     "runtime-main.js.map": "/static/js/runtime-main.46905b56.js.map",
-    "static/js/2.417dde43.chunk.js": "/static/js/2.417dde43.chunk.js",
-    "static/js/2.417dde43.chunk.js.map": "/static/js/2.417dde43.chunk.js.map",
+    "static/js/2.efb826dd.chunk.js": "/static/js/2.efb826dd.chunk.js",
+    "static/js/2.efb826dd.chunk.js.map": "/static/js/2.efb826dd.chunk.js.map",
     "static/css/3.df879eac.chunk.css": "/static/css/3.df879eac.chunk.css",
     "static/js/3.f6bfb2c1.chunk.js": "/static/js/3.f6bfb2c1.chunk.js",
     "static/js/3.f6bfb2c1.chunk.js.map": "/static/js/3.f6bfb2c1.chunk.js.map",
@@ -14,12 +14,12 @@
     "static/js/4.4615f37b.chunk.js": "/static/js/4.4615f37b.chunk.js",
     "static/js/4.4615f37b.chunk.js.map": "/static/js/4.4615f37b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7dcbad267baf4db713193a9c6ec34780.js": "/precache-manifest.7dcbad267baf4db713193a9c6ec34780.js",
+    "precache-manifest.7ceeae7b23d27ee85b71e3de8504a1e9.js": "/precache-manifest.7ceeae7b23d27ee85b71e3de8504a1e9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
     "static/css/main.cbf6f1f9.chunk.css.map": "/static/css/main.cbf6f1f9.chunk.css.map",
-    "static/js/2.417dde43.chunk.js.LICENSE.txt": "/static/js/2.417dde43.chunk.js.LICENSE.txt",
+    "static/js/2.efb826dd.chunk.js.LICENSE.txt": "/static/js/2.efb826dd.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/BlueM.jpg": "/static/media/BlueM.e6b2007f.jpg",
     "static/media/GongmoonMath.png": "/static/media/GongmoonMath.f2c22187.png",
@@ -39,8 +39,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.46905b56.js",
-    "static/js/2.417dde43.chunk.js",
+    "static/js/2.efb826dd.chunk.js",
     "static/css/main.cbf6f1f9.chunk.css",
-    "static/js/main.685c30a7.chunk.js"
+    "static/js/main.b73b9601.chunk.js"
   ]
 }
