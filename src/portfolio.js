@@ -19,8 +19,8 @@ const greeting = {
       "BEOMJIN"],
   subTitle: 
   [
-      "끊임없이 발전하는 ",
-      "개발자&수학강사 김범진입니다",
+      "끊임없이 노력하는 ",
+      "수학강사 김범진입니다",
   ],
   resumeLink:"",
   //resumeLink: "https://www.dropbox.com/s/gwxtmd1cyy9l2g1/%EA%B9%80%EB%B2%94%EC%A7%84_%EA%B8%B0%EB%B3%B8%20%EC%8B%A0%EC%9E%85%20%EC%9D%B4%EB%A0%A5%EC%84%9C%20.pdf?dl=0", 
@@ -39,16 +39,9 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "Developer Skills",
-  subTitle: "숙련된 C, Java, Kotlin 프로그래밍 능력을 보유하고 있으며 기초적인 HTML,CSS 능력을 보유하고있습니다",
+  title: "Lecturer Skills",
+  subTitle: "초,중,고 넓은 스펙트럼의 수학 지도 경력을 다년간 보유하고 있습니다",
   skills: [
-   // "<어학>",
-   // "TOEIC : 805",
-    "<Certification>",
-    "정보처리기사 / 육상무선통신사",
-    "<Developer>",
-    "임베디드를 전공하였기 때문에 C언어에 능통합니다.",
-    "언어 학습 및 습득 속도가 빠릅니다",
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -83,7 +76,7 @@ https://fontawesome.com/icons?d=gallery */
         fontAwesomeClassname: "fab fa-android"
       },
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 
@@ -155,7 +148,7 @@ const educationInfo = {
 
 
 const workExperiences = {
-    display: true, //Set it to true to show workExperiences Section
+    display: false, //Set it to true to show workExperiences Section
     experience: [
       {
         role: "서버관리자(HP-UX Server Administer)",
@@ -292,7 +285,7 @@ const bigProjects = {
       },
   ],
  
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
   
 };
 
