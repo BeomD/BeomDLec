@@ -12,7 +12,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "범진/강사",
+  username: "범진 / 강사",
   title:[
       "Hi!  ",
       "Lecturer ",
