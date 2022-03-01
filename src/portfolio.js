@@ -26,14 +26,14 @@ const greeting = {
   //resumeLink: "https://www.dropbox.com/s/gwxtmd1cyy9l2g1/%EA%B9%80%EB%B2%94%EC%A7%84_%EA%B8%B0%EB%B3%B8%20%EC%8B%A0%EC%9E%85%20%EC%9D%B4%EB%A0%A5%EC%84%9C%20.pdf?dl=0", 
   // Set to empty to hide the button
   
-  displayGreeting: true // Set false to hide this section, defaults to true
+  displayGreeting: false // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
   github: "https://github.com/BeomD",
-  display: true // Set true to display this section, defaults to false
+  display: false // Set true to display this section, defaults to false
 };
 
 // Skills Section
