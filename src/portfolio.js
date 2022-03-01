@@ -8,14 +8,14 @@ import emoji from "react-easy-emoji";
 // Summary And Greeting Section
 
 const illustration = {
-  animated: true // Set to false to use static SVG
+  animated: false // Set to false to use static SVG
 };
 
 const greeting = {
   username: "BEOMJIN",
   title:[
       "Hi!  ",
-      "FreeLancer ",
+      "Lecturer ",
       "BEOMJIN"],
   subTitle: 
   [
@@ -23,62 +23,10 @@ const greeting = {
       "수학강사 김범진입니다",
   ],
   resumeLink:"https://beomd.github.io",
-  //resumeLink: "https://www.dropbox.com/s/gwxtmd1cyy9l2g1/%EA%B9%80%EB%B2%94%EC%A7%84_%EA%B8%B0%EB%B3%B8%20%EC%8B%A0%EC%9E%85%20%EC%9D%B4%EB%A0%A5%EC%84%9C%20.pdf?dl=0", 
   // Set to empty to hide the button
   
   displayGreeting: false // Set false to hide this section, defaults to true
 };
-
-// Social Media Links
-
-const socialMediaLinks = {
-  github: "https://github.com/BeomD",
-  display: false // Set true to display this section, defaults to false
-};
-
-// Skills Section
-
-const skillsSection = {
-  title: "Lecturer Skills",
-  subTitle: "초,중,고 넓은 스펙트럼의 수학 지도 경력을 다년간 보유하고 있습니다",
-  skills: [
-  ],
-
-  /* Make Sure to include correct Font Awesome Classname to view your icon
-https://fontawesome.com/icons?d=gallery */
-
-  softwareSkills: [
-    {
-      skillName: "C",
-      fontAwesomeClassname: "fas fa-code"
-    },
-
-    {
-      skillName: "Java",
-      fontAwesomeClassname: "fab fa-java"
-    },
-    {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-
-    {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
-    },
-
-    {
-        skillName: "Kotlin",
-        fontAwesomeClassname: "fab fa-android"
-      },
-  ],
-  display: false // Set false to hide this section, defaults to true
-};
-
 
 const skillsSection2 = {
     title: "Lecturer Skills",
@@ -119,11 +67,6 @@ const skillsSection2 = {
     ],
     display: true
 }
-
-
-
-
-
 
 // Education Section
 const educationInfo = {
@@ -260,36 +203,7 @@ const workExperiences = {
     ]
   };
 
-
-
 // Some big projects you have worked on
-
-const bigProjects = {
-  title: "프로젝트",
-  subtitle: "Projects",
-  projects: [
-    {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "멀티프로세서 기반 스마트 IoT 피트니스 매트(Smart IoT Fitness Mattress based on Multi-Processor)",
-      projectDesc: [
-          "학부졸업 프로젝트 / I2C통신 기반 Atmega-128 CPU 멀티프로세서 구성 / 센서정보 실시간 송수신(BT&Serial) / ",
-          "Java 기반 Guide SoftWare 탑재",     
-        ], 
-    },
-    {
-        image: require("./assets/images/denpic.png"),
-        projectName: "DENPIC",
-        projectDesc: [
-            "Kotlin기반 안드로이드 앱 개발 진행중",
-          ], 
-      },
-  ],
- 
-  display: false // Set false to hide this section, defaults to true
-  
-};
-
-  
 const contactInfo = {
     title: emoji("연락처"),
     subtitle:[
@@ -304,22 +218,83 @@ const contactInfo = {
 
 
 
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
 //-----------------------------------------------------------------------------------------------------------------------------
 
+// Social Media Links
+
+const socialMediaLinks = {
+    github: "https://github.com/BeomD",
+    display: false // Set true to display this section, defaults to false
+  };
+  
+  // Skills Section
+  
+  const skillsSection = {
+    title: "Lecturer Skills",
+    subTitle: "초,중,고 넓은 스펙트럼의 수학 지도 경력을 다년간 보유하고 있습니다",
+    skills: [
+    ],
+  
+    /* Make Sure to include correct Font Awesome Classname to view your icon
+  https://fontawesome.com/icons?d=gallery */
+  
+    softwareSkills: [
+      {
+        skillName: "C",
+        fontAwesomeClassname: "fas fa-code"
+      },
+  
+      {
+        skillName: "Java",
+        fontAwesomeClassname: "fab fa-java"
+      },
+      {
+        skillName: "html-5",
+        fontAwesomeClassname: "fab fa-html5"
+      },
+      {
+        skillName: "css3",
+        fontAwesomeClassname: "fab fa-css3-alt"
+      },
+  
+      {
+        skillName: "JavaScript",
+        fontAwesomeClassname: "fab fa-js"
+      },
+  
+      {
+          skillName: "Kotlin",
+          fontAwesomeClassname: "fab fa-android"
+        },
+    ],
+    display: false // Set false to hide this section, defaults to true
+  };
+  
+  
+const bigProjects = {
+    title: "프로젝트",
+    subtitle: "Projects",
+    projects: [
+      {
+        image: require("./assets/images/saayaHealthLogo.webp"),
+        projectName: "멀티프로세서 기반 스마트 IoT 피트니스 매트(Smart IoT Fitness Mattress based on Multi-Processor)",
+        projectDesc: [
+            "학부졸업 프로젝트 / I2C통신 기반 Atmega-128 CPU 멀티프로세서 구성 / 센서정보 실시간 송수신(BT&Serial) / ",
+            "Java 기반 Guide SoftWare 탑재",     
+          ], 
+      },
+      {
+          image: require("./assets/images/denpic.png"),
+          projectName: "DENPIC",
+          projectDesc: [
+              "Kotlin기반 안드로이드 앱 개발 진행중",
+            ], 
+        },
+    ],
+   
+    display: false // Set false to hide this section, defaults to true
+    
+  };
 const techStack = {
     viewSkillBars: false, //Set it to true to show Proficiency Section
     experience: [
