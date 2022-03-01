@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BeomDLec/precache-manifest.7a9b14339307410237296c27f14da89c.js"
+  "/BeomDLec/precache-manifest.101d35fc84d3c23dfcd2e441f56122dd.js"
 );
 
 self.addEventListener('message', (event) => {
