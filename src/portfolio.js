@@ -25,7 +25,7 @@ const greeting = {
   resumeLink:"https://beomd.github.io",
   // Set to empty to hide the button
   
-  displayGreeting: false // Set false to hide this section, defaults to true
+  displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 const skillsSection2 = {
