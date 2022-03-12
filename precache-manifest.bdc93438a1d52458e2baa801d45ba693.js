@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a285c48ddaafeb98d704a67ba9aa6bcc",
+    "revision": "0b971f89668a3190dfa227b9e395fd15",
     "url": "/BeomDLec/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BeomDLec/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "6dfb3cb89d85bd298472",
+    "revision": "ad5554b77d5361ec553b",
     "url": "/BeomDLec/static/css/main.285e9f2d.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BeomDLec/static/js/4.a288f67d.chunk.js"
   },
   {
-    "revision": "6dfb3cb89d85bd298472",
-    "url": "/BeomDLec/static/js/main.3c4ff878.chunk.js"
+    "revision": "ad5554b77d5361ec553b",
+    "url": "/BeomDLec/static/js/main.27e988df.chunk.js"
   },
   {
     "revision": "f0a507c4a9607a392ba3",
