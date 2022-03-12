@@ -156,7 +156,7 @@ const workExperiences = {
       ]
     },   
       {
-          role: ["관리팀장","(Manager Of Mathematics Education Assistants Team)"],
+          role: ["수학조교팀장","(Manager Of Mathematics Education Assistants Team)"],
           company: "블루M수학학원",
           companylogo: require("./assets/images/BlueM.png"),
           date: "2013 ~ 2017",
