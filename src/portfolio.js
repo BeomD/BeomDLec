@@ -134,7 +134,7 @@ const workExperiences = {
     display: true, //Set it to true to show workExperiences Section
     experience: [
       {
-        role: ["중고등 수학조교","(MathEducation Assistant)"],
+        role: ["중고등 수학조교","(Mathematics Education Assistant)"],
         company: "수학의아침",
         companylogo: require("./assets/images/MorningMath.png"),
         date: "2013",
@@ -145,7 +145,7 @@ const workExperiences = {
       ]
     },  
     {
-        role: ["중고등 수학조교","(MathEducation Assistant)"],
+        role: ["중고등 수학조교","(Mathematics Education Assistant)"],
         company: "하이젠수학",
         companylogo: require("./assets/images/Haizen.png"),
         date: "2013",
@@ -156,7 +156,7 @@ const workExperiences = {
       ]
     },   
       {
-          role: ["관리팀장","(Assistant Teacher Team Manager)"],
+          role: ["관리팀장","(Manager Of Mathematics Education Assistants Team)"],
           company: "블루M수학학원",
           companylogo: require("./assets/images/BlueM.png"),
           date: "2013 ~ 2017",
@@ -179,7 +179,7 @@ const workExperiences = {
         ]
       },
       {
-        role: ["중고등수학 파트"],
+        role: ["중고등수학"],
         company: "",
         //companylogo: require("./assets/images/GongmoonMath.png"),
         date: "2022 Feb ~ 재직중",
