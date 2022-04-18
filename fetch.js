@@ -102,9 +102,9 @@ if (MEDIUM_USERNAME !== undefined) {
     path: `/v1/api.json?rss_url=https://medium.com/feed/@${MEDIUM_USERNAME}`,
     port: 443,
     method: "GET"
- */
+ 
 };
-
+*/
   const req = https.request(options, res => {
     let mediumData = "";
 
