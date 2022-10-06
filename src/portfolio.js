@@ -209,8 +209,8 @@ const contactInfo = {
     subtitle:[
       "언제든지 일할 준비가 되어있습니다. ",
     ],
-    number: "010-5815-6035",
-    email_address: "bamjin_e@protonmail.com"
+    number: "010-8418-5886",
+    email_address: "bamjin204@gmail.com"
   };
   
 
