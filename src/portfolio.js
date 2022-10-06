@@ -185,7 +185,7 @@ const workExperiences = {
         date: "2022 Feb ~ 재직중",
         desc: "파트",
         descBullets: [
-          "재직중",
+          "강의_",
       ]
       },  
       /*  
